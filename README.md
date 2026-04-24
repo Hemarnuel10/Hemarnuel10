@@ -1,9 +1,8 @@
 # Hi, I'm Emmanuel
 
-Aerospace Engineering student at Lagos State University with a strong interest in backend development and software engineering.
+Aerospace Engineering student at Lagos State University with a strong interest in Full-stack development and software engineering.
 
 Currently learning:
-
 - Python
 - Django
 - JavaScript
